@@ -1,4 +1,4 @@
-# Get started building your personal website
+<h1 align="center">github.typrojects.io</h1>
 
 ### Showcase your software development skills
 
